@@ -7,3 +7,7 @@ https://user-images.githubusercontent.com/65512990/121610449-11ba7d80-ca24-11eb-
 
 
 
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
