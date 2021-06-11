@@ -5,7 +5,7 @@
 https://user-images.githubusercontent.com/65512990/121613900-88a74480-ca2b-11eb-94d5-8f11054a83e2.mp4
 
 # How Can I Play It?
-Since this was made for a game jam, you can download the game on itch.io
+Since this was made for a game jam, you can download the game on itch.io:
 
 ### [Play Game](https://treixatek.itch.io/gold-chaser)
 
